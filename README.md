@@ -1,1 +1,1 @@
-# mipt_bioinformatics_2021
+# for final in data analysis
